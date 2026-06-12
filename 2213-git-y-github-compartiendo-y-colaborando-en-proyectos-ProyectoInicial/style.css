@@ -89,6 +89,10 @@ body::before {
     font-family: 'Inter', sans-serif;
 }
 
+p{
+    display: block;
+}
+
 .container__botones {
     display: flex;
     gap: 2em;
